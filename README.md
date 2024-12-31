@@ -1,6 +1,6 @@
-# MY PORTFOLIO
+# Aayush Chhetri Lamichhane Portfolio
 
-## Tech Stack
+## Technologies Used
 
 **Client:** HTML, CSS, Vanilla JavaSCript
 
